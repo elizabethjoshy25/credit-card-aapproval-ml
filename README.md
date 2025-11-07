@@ -1,6 +1,4 @@
-# Prediction of Credit card application approval  �
-
-!
+# Prediction of Credit card application approval  
 
 ## 🔗 Run It Yourself
 Click below to open and run this project in Google Colab:
